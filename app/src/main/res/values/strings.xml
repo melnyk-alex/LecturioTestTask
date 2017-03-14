@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="button_text">Submit</string>
+    <string name="IK_QUERSTION">QUESTION</string>
+    <string name="query_hint">Enter your request here...</string>
+    <string name="dialog_message">Loading questions</string>
+    <string name="error_message">An error occurred during networking</string>
+</resources>
